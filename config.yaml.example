@@ -1,0 +1,3 @@
+IPS:
+  - "205.185.125.60" # IPv4 address 应急回落
+IP6SUB: "2605:3242:5aab::/48" # IPv6 subnet
